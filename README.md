@@ -25,3 +25,7 @@ This repository is Created for beginner to contribute in Hacktoberfest 2022 even
 - Pull requests must be approved by a maintainer of the repository/project to count.
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first **55,000** participants who successfully complete the challenge will be eligible to receive a prize.
+
+##Note for contribution: 
+-please make PR or contribution in respected folder, if doesn't exist create folder according to content of contribution.
+-This repository is open for contribution to both code and no-code 
